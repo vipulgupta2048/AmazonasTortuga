@@ -1,12 +1,13 @@
 [Activity]
 name = Amazonas Tortuga
 activity_version = 192
-license = MIT
+license = MIT;GPLv2+;LGPLv2+;LGPLv2.1+;LGPLv3+;GPLv3+
 bundle_id = org.sugarlabs.AmazonasTortuga
 exec = sugar-activity TurtleArtActivity.TurtleArtActivity
 icon = activity-turtleart
 show_launcher = yes
-website = http://wiki.sugarlabs.org/go/Activities/Turtle_Art
 mime_types = application/x-turtle-art;application/vnd.turtleblocks
 summary = A Logo-inspired turtle that draws colorful pictures with snap-together visual programming blocks
-category = game programming
+tags = Game;Programming
+repository = https://github.com/sugarlabs/AmazonasTortuga
+url = https://help.sugarlabs.org/en/amazonas_tortuga.html
